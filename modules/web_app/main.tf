@@ -1,5 +1,5 @@
 resource "azurerm_app_service_plan" "asp" {
-  name                = "webapp131"
+  name                = "webapp1624"
   location            = var.location
   resource_group_name = var.resource_group
   sku {
