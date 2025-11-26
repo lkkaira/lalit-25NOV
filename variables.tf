@@ -10,10 +10,10 @@ variable "location" {
  
 variable "sa_name" {
   type    = string
-  default = "lalitst"
+  default = "lalitst16"
 }
  
 variable "app_name" {
   type    = string
-  default = "webapp131"
+  default = "webapp1624"
 }
