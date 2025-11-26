@@ -3,7 +3,7 @@ name: Deploy Azure Infrastructure with Terraform
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
  
 jobs:
